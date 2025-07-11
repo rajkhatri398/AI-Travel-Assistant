@@ -1,35 +1,66 @@
-Travel Itinerary Planner using Multi-AI Agents
-Effortlessly plan your next adventure with our intelligent, agent-powered travel itinerary planner. Designed to save you time, personalize your journey, and deliver truly local experiences—all in a single click.
+# Travel Itinerary Planner 🚀🗺️
 
-🚀 What Problem Are We Solving?
-1. Time-Saving ⏳
-Instantly generates complete itineraries—no more hours of manual research.
+Effortlessly plan your next adventure with an intelligent, agent‑powered travel itinerary planner. Save time, personalize your journey, and unlock truly local experiences—all in a single click.
 
-Quickly adapts to changes or new preferences.
+---
 
-2. Personalization 🎯
-Tailors plans to your unique interests: food, adventure, culture, and more.
+## 🔍 What Problem Are We Solving?
 
-Learns your preferences over time using your User ID for even better recommendations.
+- **Time‑Saving** ⏳  
+  Instantly generate complete, ready‑to‑go itineraries—no more hours spent researching.  
+  Built‑in adaptability means your plan updates instantly with any change.
 
-3. Smart Recommendations 🤖
-Combines the power of:
+- **Personalization** 🎯  
+  Tailored experiences based on your interests—food, adventure, culture, and more.  
+  Learns from your preferences (via User ID), offering smarter suggestions over time.
 
-AI itinerary generation (LLM, Gen-AI, Agentic-AI)
+- **Smart Recommendations** 🤖  
+  Combines:
+  - AI‑generated itineraries (LLM, Gen‑AI, Agentic‑AI)
+  - Personalized suggestions (Machine Learning)
+  - Review insights (Deep Learning)
 
-Personalized suggestions (Machine Learning)
+- **Local Expertise** 🗺️  
+  Reveals hidden gems and authentic local favorites, steering clear of tourist traps.
 
-Review analysis (Deep Learning)
+- **Decision Simplicity** ✅  
+  Curated daily plans, ideal timing, and sentiment‑scored recommendations make decision‑making a breeze.
 
-4. Local Expertise 🗺️
-Reveals hidden gems and authentic experiences.
+---
 
-Helps you avoid tourist traps and discover what locals love.
+## ✨ Key Benefits
 
-5. Decision Simplicity ✅
-Provides curated daily plans with optimal timing.
+- **One‑click itinerary creation**: just enter the basics—destination, dates, traveler type—and go!
+- **Dynamic & adaptive**: change preferences mid‑trip? Itineraries adjust in real time.
+- **Local-first**: discover authentic experiences, eateries, and sights loved by locals.
+- **Sentiment clarity**: see positive/negative cues to avoid low-rated spots.
+- **Feedback-driven**: learns from each interaction to refine future recommendations.
 
-Offers clear sentiment analysis for each location, making choices easy.
+---
 
-✨ Key Benefit
-Turns stressful trip planning into one-click perfect itineraries. Enjoy more, worry less, and make every trip memorable!
+## 🧩 How It Works
+
+1. **User Input**: enter origin, destination, travel dates, interests, budget, traveler count.
+2. **Agent Workflow**:
+   - **Preference Agent**: learns your travel style.
+   - **Research Agent**: mines data on flights, stays, food, sights.
+   - **Itinerary Agent**: builds a daily schedule with optimized routes and timings.
+   - **Review Agent**: analyzes reviews and flags sentiment.
+3. **Itinerary Output**:
+   - Day-by-day schedule
+   - Local dining and stay suggestions
+   - Transport logistics and budget breakdown
+   - Sentiment summaries for quick insight
+4. **Feedback Loop**: user reviews itinerary → planner refines future experiences.
+
+---
+
+## 🛠️ Features
+
+- ✅ Single-click itinerary creation  
+- 📆 Daily activity scheduling with optimal timing  
+- 🍽️ Local food spot suggestions and ratings  
+- 🏨 Accommodation and transport options  
+- 📊 Sentiment analysis of reviewed experiences  
+- 💾 Personalized suggestions over time  
+- 🔁 Rea
