@@ -63,4 +63,4 @@ Effortlessly plan your next adventure with an intelligent, agent‑powered trave
 - 🏨 Accommodation and transport options  
 - 📊 Sentiment analysis of reviewed experiences  
 - 💾 Personalized suggestions over time  
-- 🔁 Rea
+- 🔁 Real-time updates reflecting user changes
