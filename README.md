@@ -1,4 +1,8 @@
+# Travel Itinerary Planner 🚀🗺️
 
+Effortlessly plan your next adventure with an intelligent, agent‑powered travel itinerary planner. Save time, personalize your journey, and unlock truly local experiences—all in a single click.
+
+---
 
 ## 🔍 What Problem Are We Solving?
 
